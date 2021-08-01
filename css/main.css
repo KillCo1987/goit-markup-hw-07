@@ -83,6 +83,10 @@ img {
   bottom: 0;
 }
 
+.nav-list-wrapper__list-link.current {
+  color: var(--interactive-color);
+}
+
 .header {
   padding-top: 24px;
   padding-bottom: 24px;

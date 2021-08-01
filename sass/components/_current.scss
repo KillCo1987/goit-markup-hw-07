@@ -12,3 +12,7 @@
   background: #2196f3;
   bottom: 0;
 }
+
+.nav-list-wrapper__list-link.current {
+  color: var(--interactive-color);
+}
